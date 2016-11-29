@@ -1,0 +1,22 @@
+{
+  "name": "datatype",
+  "version": "1.0.0",
+  "description": "data type lab",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbanky10/data.git"
+  },
+  "author": "Oluwabanke Fagbemi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbanky10/data/issues"
+  },
+  "homepage": "https://github.com/dbanky10/data#readme"
+}
